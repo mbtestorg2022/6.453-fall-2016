@@ -6,28 +6,568 @@ uid: ea318bd7-40cf-dd0a-35a9-b8841f41c03e
 
 Readings and Lecture Slides for each session of the course can be found below. [Supplementary readings on probability (PDF)]({{< baseurl >}}/resources/mit6_453f16_probability) and [random processes (PDF)]({{< baseurl >}}/resources/mit6_453f16_random_proc) are also available.
 
-| SES # | TOPICS | READINGS | LECTURE SLIDES |
-| --- | --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} **Technical Overview** {{< br >}}{{< br >}} *   Optical eavesdropping tap - quadrature-noise squeezing{{< br >}}*   Action at a distance - polarization entanglement{{< br >}}*   Long-distance quantum state transmission - qubit teleportation {{< br >}}{{< br >}}  | [Session 1 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect1_notes) | [Session 1 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect1) |
-| 2 |  {{< br >}}{{< br >}} **Fundamentals of Dirac-Notation Quantum Mechanics** {{< br >}}{{< br >}} *   Quantum systems{{< br >}}*   States as ket vectors{{< br >}}*   State evolution via Schrödinger's equation{{< br >}}*   Quantum measurements - observables {{< br >}}{{< br >}}  | [Session 2 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect2_notes) | [Session 2 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect2) |
-| 3 |  {{< br >}}{{< br >}} **Fundamentals of Dirac-Notation Quantum Mechanics** {{< br >}}{{< br >}} *   Definitions and axioms - reprise{{< br >}}*   Quantum measurements - statistics{{< br >}}*   Schrödinger picture versus Heisenberg picture{{< br >}}*   Heisenberg uncertainty principle {{< br >}}{{< br >}}  | [Session 3 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect3_notes) | [Session 3 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect3) |
-| 4 |  {{< br >}}{{< br >}} **Quantum Harmonic Oscillator** {{< br >}}{{< br >}} *   Quantization of a classical LC circuit{{< br >}}*   Annihilation and creation operators{{< br >}}*   Energy eigenstates - number-state kets {{< br >}}{{< br >}}  | [Session 4 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect4_notes) | [Session 4 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect4) |
-| 5 |  {{< br >}}{{< br >}} **Quantum Harmonic Oscillator** {{< br >}}{{< br >}} *   Number measurements versus quadrature measurements{{< br >}}*   Coherent states and their measurement statistics {{< br >}}{{< br >}}  | [Session 5 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect5_notes) | [Session 5 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect5) |
-| 6 |  {{< br >}}{{< br >}} **Quantum Harmonic Oscillator** {{< br >}}{{< br >}} *   Quadrature-representation wave functions{{< br >}}*   Minimum uncertainty-product (MUP) states{{< br >}}*   Squeezed states and their measurement statistics {{< br >}}{{< br >}}  | [Session 6 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect6_notes) | [Session 6 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect6) |
-| 7 |  {{< br >}}{{< br >}} **Quantum Harmonic Oscillator** {{< br >}}{{< br >}} *   Quadrature-measurement statistics and phase space{{< br >}}*   Characteristic functions and the Wigner distribution{{< br >}}*   Positive operator-valued measurement of â {{< br >}}{{< br >}}  | [Session 7 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect7_notes) | [Session 7 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect7) |
-| 8 |  {{< br >}}{{< br >}} **Quantum Harmonic Oscillator** {{< br >}}{{< br >}} *   Positive operator-valued measurement (POVM) of â{{< br >}}*   Reconciling POVMs and observables {{< br >}}{{< br >}} **Single-Mode Photodetection** {{< br >}}{{< br >}} *   Direct Detection - semiclassical versus quantum{{< br >}}*   Homodyne Detection - semiclassical versus quantum {{< br >}}{{< br >}}  | [Session 8 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect8_notes) | [Session 8 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect8) |
-| 9 |  {{< br >}}{{< br >}} **Single-Mode Photodetection** {{< br >}}{{< br >}} *   Direct Detection - reprise{{< br >}}*   Homodyne Detection - reprise{{< br >}}*   Heterodyne Detection - semiclassical versus quantum{{< br >}}*   Realizing the â measurement {{< br >}}{{< br >}}  | [Session 9 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect9_notes) | [Session 9 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect9) |
-| 10 |  {{< br >}}{{< br >}} **Single-Mode Photodetection** {{< br >}}{{< br >}} *   Signatures of non-classical light{{< br >}}*   Squeezed-state waveguide tap {{< br >}}{{< br >}}  | [Session 10 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect10_notes) | [Session 10 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect10) |
-| 11 |  {{< br >}}{{< br >}} **Single-Mode Photodetection** {{< br >}}{{< br >}} *   Squeezed-state waveguide tap - reprise {{< br >}}{{< br >}} **Single-Mode Linear Systems** {{< br >}}{{< br >}} *   Attenuators{{< br >}}*   Phase-Insensitive Amplifiers {{< br >}}{{< br >}}  | [Session 11 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect11_notes) | [Session 11 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect11) |
-| 12 |  {{< br >}}{{< br >}} **Single-Mode and Two-Mode Linear Systems** {{< br >}}{{< br >}} *   Attenuators{{< br >}}*   Phase-Insensitive Amplifiers{{< br >}}*   Phase-Sensitive Amplifiers{{< br >}}*   Entanglement {{< br >}}{{< br >}}  | [Session 12 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect12_notes) | [Session 12 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect12) |
-| 13 |  {{< br >}}{{< br >}} **Two-Mode Linear Systems** {{< br >}}{{< br >}} *   Parametric amplifier statistics{{< br >}}*   Entanglement {{< br >}}{{< br >}} **Four-Mode Quantum Systems** {{< br >}}{{< br >}} *   Polarization entanglement{{< br >}}*   Qubit teleportation {{< br >}}{{< br >}}  | [Session 13 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect13_notes) | [Session 13 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect13) |
-| 14 |  {{< br >}}{{< br >}} **Teleportation** {{< br >}}{{< br >}} *   Polarization entanglement and qubit teleportation{{< br >}}*   Quadrature entanglement and continuous-variable teleportation {{< br >}}{{< br >}}  | [Session 14 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect14_notes) | [Session 14 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect14) |
-| 15 |  {{< br >}}{{< br >}} **Teleportation** {{< br >}}{{< br >}} *   Fidelity analysis of continuous-variable teleportation {{< br >}}{{< br >}}  | [Session 15 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect15_notes) | [Session 15 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect15) |
-| 16 |  {{< br >}}{{< br >}} **Quantum Cryptography** {{< br >}}{{< br >}} *   One-time pad cryptography{{< br >}}*   Bennett-Brassard protocol quantum key distribution{{< br >}}*   Clauser-Horne-Shimony-Holt form of Bell's inequality{{< br >}}*   Ekert protocol quantum key distribution {{< br >}}{{< br >}}  | [Session 16 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect16_notes) | [Session 16 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect16) |
-| 17 |  {{< br >}}{{< br >}} **Quantization of the Electromagnetic Field** {{< br >}}{{< br >}} *   Maxwell's equations{{< br >}}*   Plane-wave mode expansions{{< br >}}*   Multi-mode number states and coherent states {{< br >}}{{< br >}}  | [Session 17 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect17_notes) | [Session 17 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect17) |
-| 18 |  {{< br >}}{{< br >}} **Continuous-Time Photodetection** {{< br >}}{{< br >}} *   Semiclassical theory - Poisson shot noise{{< br >}}*   Quantum theory - photon-flux operator measurement{{< br >}}*   Direct-detection signatures of non-classical light {{< br >}}{{< br >}}  | [Session 18 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect18_notes) | [Session 18 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect18) |
-| 19 |  {{< br >}}{{< br >}} **Continuous-Time Photodetection** {{< br >}}{{< br >}} *   Noise spectral densities in direct detection{{< br >}}*   Semiclassical theory of coherent detection{{< br >}}*   Quantum theory of coherent detection{{< br >}}*   Coherent-detection signatures of non-classical light {{< br >}}{{< br >}}  | [Session 19 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect19_notes) | [Session 19 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect19) |
-| 20 |  {{< br >}}{{< br >}} **Nonlinear Optics of X(2) Interactions** {{< br >}}{{< br >}} *   Maxwell's equations with a nonlinear polarization{{< br >}}*   Coupled-mode equations for parametric downconversion{{< br >}}*   Phase-matching for efficient interactions{{< br >}}*   Classical solutions {{< br >}}{{< br >}}  | [Session 20 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect20_notes) | [Session 20 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect20) |
-| 21 |  {{< br >}}{{< br >}} **Nonlinear Optics of X(2) Interactions** {{< br >}}{{< br >}} *   Coupled-mode equations for parametric downconversion{{< br >}}*   Phase-matching for efficient interactions{{< br >}}*   Classical and quantum solutions{{< br >}}*   Gaussian-state characterization {{< br >}}{{< br >}}  | [Session 21 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect21_notes) | [Session 21 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect21) |
-| 22 |  {{< br >}}{{< br >}} **Quantum Signatures from Parametric Interactions** {{< br >}}{{< br >}} *   Hong-Ou-Mandel dip produced by parametric downconversion{{< br >}}*   Polarization entanglement produced by parametric downconversion{{< br >}}*   Photon twins from parametric amplifiers {{< br >}}{{< br >}}  | [Session 22 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect22_notes) | [Session 22 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect22) |
-| 23 |  {{< br >}}{{< br >}} **More Quantum Optical Applications** {{< br >}}{{< br >}} *   Binary optical communication with squeezed states{{< br >}}*   Phase-sensing interferometry with squeezed states{{< br >}}*   Super-dense coding with entangled states{{< br >}}*   Quantum lithography with "N00N" states {{< br >}}{{< br >}}  | [Session 23 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect23_notes) | [Session 23 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect23)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+{{< thopen >}}
+LECTURE SLIDES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Technical Overview**
+
+*   Optical eavesdropping tap - quadrature-noise squeezing
+*   Action at a distance - polarization entanglement
+*   Long-distance quantum state transmission - qubit teleportation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 1 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect1_notes)
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 1 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect1)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Fundamentals of Dirac-Notation Quantum Mechanics**
+
+*   Quantum systems
+*   States as ket vectors
+*   State evolution via Schrödinger's equation
+*   Quantum measurements - observables
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 2 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect2_notes)
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 2 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Fundamentals of Dirac-Notation Quantum Mechanics**
+
+*   Definitions and axioms - reprise
+*   Quantum measurements - statistics
+*   Schrödinger picture versus Heisenberg picture
+*   Heisenberg uncertainty principle
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 3 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect3_notes)
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 3 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect3)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Quantum Harmonic Oscillator**
+
+*   Quantization of a classical LC circuit
+*   Annihilation and creation operators
+*   Energy eigenstates - number-state kets
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 4 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect4_notes)
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 4 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect4)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Quantum Harmonic Oscillator**
+
+*   Number measurements versus quadrature measurements
+*   Coherent states and their measurement statistics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 5 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect5_notes)
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 5 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect5)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Quantum Harmonic Oscillator**
+
+*   Quadrature-representation wave functions
+*   Minimum uncertainty-product (MUP) states
+*   Squeezed states and their measurement statistics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 6 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect6_notes)
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 6 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect6)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Quantum Harmonic Oscillator**
+
+*   Quadrature-measurement statistics and phase space
+*   Characteristic functions and the Wigner distribution
+*   Positive operator-valued measurement of â
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 7 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect7_notes)
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 7 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect7)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Quantum Harmonic Oscillator**
+
+*   Positive operator-valued measurement (POVM) of â
+*   Reconciling POVMs and observables
+
+**Single-Mode Photodetection**
+
+*   Direct Detection - semiclassical versus quantum
+*   Homodyne Detection - semiclassical versus quantum
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 8 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect8_notes)
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 8 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect8)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Single-Mode Photodetection**
+
+*   Direct Detection - reprise
+*   Homodyne Detection - reprise
+*   Heterodyne Detection - semiclassical versus quantum
+*   Realizing the â measurement
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 9 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect9_notes)
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 9 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect9)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Single-Mode Photodetection**
+
+*   Signatures of non-classical light
+*   Squeezed-state waveguide tap
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 10 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect10_notes)
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 10 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect10)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Single-Mode Photodetection**
+
+*   Squeezed-state waveguide tap - reprise
+
+**Single-Mode Linear Systems**
+
+*   Attenuators
+*   Phase-Insensitive Amplifiers
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 11 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect11_notes)
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 11 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect11)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Single-Mode and Two-Mode Linear Systems**
+
+*   Attenuators
+*   Phase-Insensitive Amplifiers
+*   Phase-Sensitive Amplifiers
+*   Entanglement
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 12 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect12_notes)
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 12 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect12)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Two-Mode Linear Systems**
+
+*   Parametric amplifier statistics
+*   Entanglement
+
+**Four-Mode Quantum Systems**
+
+*   Polarization entanglement
+*   Qubit teleportation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 13 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect13_notes)
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 13 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect13)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Teleportation**
+
+*   Polarization entanglement and qubit teleportation
+*   Quadrature entanglement and continuous-variable teleportation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 14 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect14_notes)
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 14 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect14)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Teleportation**
+
+*   Fidelity analysis of continuous-variable teleportation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 15 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect15_notes)
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 15 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect15)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Quantum Cryptography**
+
+*   One-time pad cryptography
+*   Bennett-Brassard protocol quantum key distribution
+*   Clauser-Horne-Shimony-Holt form of Bell's inequality
+*   Ekert protocol quantum key distribution
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 16 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect16_notes)
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 16 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect16)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Quantization of the Electromagnetic Field**
+
+*   Maxwell's equations
+*   Plane-wave mode expansions
+*   Multi-mode number states and coherent states
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 17 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect17_notes)
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 17 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect17)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Continuous-Time Photodetection**
+
+*   Semiclassical theory - Poisson shot noise
+*   Quantum theory - photon-flux operator measurement
+*   Direct-detection signatures of non-classical light
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 18 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect18_notes)
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 18 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect18)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Continuous-Time Photodetection**
+
+*   Noise spectral densities in direct detection
+*   Semiclassical theory of coherent detection
+*   Quantum theory of coherent detection
+*   Coherent-detection signatures of non-classical light
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 19 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect19_notes)
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 19 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect19)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Nonlinear Optics of X(2) Interactions**
+
+*   Maxwell's equations with a nonlinear polarization
+*   Coupled-mode equations for parametric downconversion
+*   Phase-matching for efficient interactions
+*   Classical solutions
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 20 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect20_notes)
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 20 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect20)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Nonlinear Optics of X(2) Interactions**
+
+*   Coupled-mode equations for parametric downconversion
+*   Phase-matching for efficient interactions
+*   Classical and quantum solutions
+*   Gaussian-state characterization
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 21 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect21_notes)
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 21 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect21)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Quantum Signatures from Parametric Interactions**
+
+*   Hong-Ou-Mandel dip produced by parametric downconversion
+*   Polarization entanglement produced by parametric downconversion
+*   Photon twins from parametric amplifiers
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 22 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect22_notes)
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 22 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect22)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**More Quantum Optical Applications**
+
+*   Binary optical communication with squeezed states
+*   Phase-sensing interferometry with squeezed states
+*   Super-dense coding with entangled states
+*   Quantum lithography with "N00N" states
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 23 Reading (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect23_notes)
+{{< tdclose >}}
+{{< tdopen >}}
+[Session 23 Lecture Slides (PDF)]({{< baseurl >}}/resources/mit6_453f16_lect23)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -29,50 +29,409 @@ Assignments and Grading
 
 There will be eight problem sets and an in-class mid-term quiz but there will not be a final examination. A term paper will be required.
 
-| ASSIGNMENTS | PERCENTAGES OF GRADES |
-| --- | --- |
-| Problem Sets | 20% |
-| Mid-Term Quiz | 40% |
-| Term Paper | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES OF GRADES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mid-Term Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Term Paper
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _Note: The term paper is not avalibable to OCW users._
 
 Course Outline
 --------------
 
-| SUBJECTS | TOPICS |
-| --- | --- |
-| Quantum Optics | Dirac notation quantum mechanics; harmonic oscillator quantization; number states, coherent states, and squeezed states; representation and classical fields |
-| Single-Mode and Two-Mode Quantum Systems | Direct, homodyne, and heterodyne detection; linear propagation loss; phase insensitive and phase sensitive amplifiers; entanglement and teleportation |
-| Multi-Mode Quantum Systems | Field quantization; quantum photodetection |
-| Nonlinear Optics | Phase-matched interactions; optical parametric amplifiers; generation of squeezed states, photon-twin beams, non-classical fourth-order interference, and polarization entanglement |
-| Quantum System Theory | Optimum binary detection; quantum precision measurements; and quantum cryptography 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SUBJECTS
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quantum Optics
+{{< tdclose >}}
+{{< tdopen >}}
+Dirac notation quantum mechanics; harmonic oscillator quantization; number states, coherent states, and squeezed states; representation and classical fields
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Single-Mode and Two-Mode Quantum Systems
+{{< tdclose >}}
+{{< tdopen >}}
+Direct, homodyne, and heterodyne detection; linear propagation loss; phase insensitive and phase sensitive amplifiers; entanglement and teleportation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Multi-Mode Quantum Systems
+{{< tdclose >}}
+{{< tdopen >}}
+Field quantization; quantum photodetection
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Nonlinear Optics
+{{< tdclose >}}
+{{< tdopen >}}
+Phase-matched interactions; optical parametric amplifiers; generation of squeezed states, photon-twin beams, non-classical fourth-order interference, and polarization entanglement
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quantum System Theory
+{{< tdclose >}}
+{{< tdopen >}}
+Optimum binary detection; quantum precision measurements; and quantum cryptography
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| SES # | TOPICS | ASSIGNMENTS |
-| --- | --- | --- |
-| 1 | Technical Overview | &nbsp; |
-| 2 | Fundamentals of Dirac-Notation Quantum Mechanics I | &nbsp; |
-| 3 | Fundamentals of Dirac-Notation Quantum Mechanics II | Problem Set 1 Due |
-| 4 | Quantum Harmonic Oscillator I | &nbsp; |
-| 5 | Quantum Harmonic Oscillator II | Problem Set 2 Due |
-| 6 | Quantum Harmonic Oscillator III | &nbsp; |
-| 7 | Quantum Harmonic Oscillator IV | Problem Set 3 Due |
-| 8 | Quantum Harmonic Oscillator V | &nbsp; |
-| 9 | Single-Mode Photodetection I | Problem Set 4 Due |
-| 10 | Single-Mode Photodetection II | Problem Set 5 Due |
-| 11 | Single-Mode Photodetection III | &nbsp; |
-| 12 | Single-Mode and Two-Mode Linear Systems | Problem Set 6 Due |
-| 13 | Two-Mode Linear Systems | &nbsp; |
-| 14 | Teleportation I | Problem Set 7 Due |
-| 15 | Teleportation II | &nbsp; |
-| 16 | Quantum Cryptography | Problem Set 8 Due; Midterm Exam |
-| 17 | Quantization of the Electromagnetic Field | &nbsp; |
-| 18 | Continuous-Time Photodetection I | &nbsp; |
-| 19 | Continuous-Time Photodetection II | &nbsp; |
-| 20 | Nonlinear Optics of X(2) Interactions I | &nbsp; |
-| 21 | Nonlinear Optics of X(2) Interactions II | &nbsp; |
-| 22 | Quantum Signatures from Parametric Interactions | &nbsp; |
-| 23 | More Quantum Optical Applications | Term paper Due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Technical Overview
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Fundamentals of Dirac-Notation Quantum Mechanics I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Fundamentals of Dirac-Notation Quantum Mechanics II
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 1 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Quantum Harmonic Oscillator I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Quantum Harmonic Oscillator II
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 2 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Quantum Harmonic Oscillator III
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Quantum Harmonic Oscillator IV
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 3 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Quantum Harmonic Oscillator V
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Single-Mode Photodetection I
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 4 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Single-Mode Photodetection II
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 5 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Single-Mode Photodetection III
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Single-Mode and Two-Mode Linear Systems
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 6 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Two-Mode Linear Systems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Teleportation I
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 7 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Teleportation II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Quantum Cryptography
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 8 Due; Midterm Exam
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Quantization of the Electromagnetic Field
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Continuous-Time Photodetection I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Continuous-Time Photodetection II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Nonlinear Optics of X(2) Interactions I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Nonlinear Optics of X(2) Interactions II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Quantum Signatures from Parametric Interactions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+More Quantum Optical Applications
+{{< tdclose >}}
+{{< tdopen >}}
+Term paper Due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
